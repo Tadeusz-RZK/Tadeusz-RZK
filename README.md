@@ -11,6 +11,9 @@
   </a>
 </div>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tadeusz-RZK&style=flat&color=blue" alt="Profile Views"/>
+</p>
 
 - 💻 I build with `C`, `C++` and `Python`
 - ⚡ I enjoy video games, reading, martial arts and movies
