@@ -1,1 +1,2 @@
-- I build with `C`, `C++` and `Python`
+- 💻 I build with `C`, `C++` and `Python`
+- ⚡ I enjoy video games, reading, martial arts and movies
