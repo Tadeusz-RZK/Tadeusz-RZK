@@ -3,11 +3,14 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/%F0%9F%94%90romain-r-632b30170/">
+  <a href="https://www.linkedin.com/in/%F0%9F%94%90romain-r-632b30170">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.reddit.com/user/Tad3usZz">
     <img src="https://img.shields.io/badge/Reddit-red?style=for-the-badge&logo=reddit&logoColor=white" alt="Youtube Badge"/>
+  </a>
+    <a href="https://leetcode.com/Tadeusz-RZK">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
 
