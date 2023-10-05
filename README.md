@@ -15,5 +15,9 @@
   <img src="https://komarev.com/ghpvc/?username=Tadeusz-RZK&style=flat&color=blue" alt="Profile Views"/>
 </p>
 
-- 💻 I build with `C`, `C++` and `Python`
-- ⚡ I enjoy video games, reading, martial arts and movies
+* * *
+
+Hello, my name is Romain and I am currently a Cybersecurity Consultant in Britanny, France.
+- 💻 Building with `C`, `C++` and `Python`
+- 📦 Working with [Fedora](https://fedoraproject.org/), [Neo**vim**](https://neovim.io/), [Firefox](https://www.mozilla.org)
+- ⚡ Enjoying video games, reading, martial arts and movies
