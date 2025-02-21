@@ -22,6 +22,6 @@
 
 Hello, my name is Romain and I am currently a Cybersecurity Consultant in Britanny, France.
 - 💻 Building with `C`, `C++` and `Python`
-- 📦 Working with [EndeavourOS](https://endeavouros.com/), [Neo**vim**](https://neovim.io/), [Firefox](https://www.mozilla.org)
+- 📦 Working with [OpenSUSE](https://www.opensuse.org/), [Neo**vim**](https://neovim.io/), [Firefox](https://www.mozilla.org)
 - 🌱 Learning `C++`, `RUST` and `Angular`
 - ⚡ Enjoying video games, reading, martial arts and movies
